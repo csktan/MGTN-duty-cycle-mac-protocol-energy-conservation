@@ -1,0 +1,212 @@
+
+	FILL_NODES
+
+1M-12N-1ppt-1gpu-FILL_NODES
+
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+--------------------------------------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+
+1M-12N-2ppt-1gpu-FILL_NODES
+
+Execution time:	5.048922884
+Speedup:	3.68 
+CPU Time:	18.593596775
+
+-------------------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+1M-12N-3ppt-1gpu-FILL_NODES
+
+Execution time:	6.730247742
+Speedup:	2.76 
+CPU Time:	18.593596775
+---------------------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+1M-12N-4ppt-1gpu-FILL_NODES
+
+Execution time:	8.434031432
+Speedup:	2.20 
+CPU Time:	18.593596775
+---------------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+
+N_TASK_PER_NODE
+
+1M-12N-1ppt-1gpu- 1-Task-per-node
+
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+-----------------------------------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+1M-12N-1ppt-1gpu- 2-Task-per-node
+
+Execution time:	6.673439806
+Speedup:	2.79 
+CPU Time:	18.593596775
+---------------------------------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+
+1M-12N-1ppt-1gpu- 3-Task-per-node
+
+Execution time:	9.962555074
+Speedup:	1.87 
+CPU Time:	18.593596775
+---------------------------------------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+
+1M-12N-1ppt-1gpu- 4-Task-per-node
+
+Execution time:	13.259290898
+Speedup:	1.40 
+CPU Time:	18.593596775
+---------------------------------------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+
+
+1M-12N-2ppt-1gpu- 1-Task-per-node
+
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+---------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+1M-12N-2ppt-1gpu- 2-Task-per-node
+
+Execution time:	5.048922884
+Speedup:	3.68 
+CPU Time:	18.593596775
+--------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+1M-12N-2ppt-1gpu- 3-Task-per-node
+Execution time:	7.309924796
+Speedup:	2.54 
+CPU Time:	18.593596775
+---------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+1M-12N-2ppt-1gpu- 4-Task-per-node
+Execution time:	10.053122640
+Speedup:	1.85 
+CPU Time:	18.593596775
+----------------------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+1M-12N-4ppt-1gpu- 1-Task-per-node
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+-------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+1M-12N-4ppt-1gpu- 2-Task-per-node
+Execution time:	5.048922884
+Speedup:	3.68 
+CPU Time:	18.593596775
+--------------------------------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+
+
+TASK_INTERLEAVED
+1M-12N-1ppt-1gpu- task-interleaved
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+---------------------------------
+Execution time:	3.376563386
+Speedup:	5.51 
+CPU Time:	18.593596775
+
+1M-12N-1ppt-1gpu- task-interleaved
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+------------------
+Execution time:	3.370553386
+Speedup:	5.52 
+CPU Time:	18.593596775
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
